@@ -1,0 +1,6 @@
+{
+  "name": "Nonton",
+  "description": "Cinema movie streaming portal with HTML5 fullscreen video playback, ad protection, mirror switching, and bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
